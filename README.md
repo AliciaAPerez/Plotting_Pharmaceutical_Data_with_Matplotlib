@@ -1,0 +1,2 @@
+# Plotting_Pharmaceutical_Data_with_Matplotlib
+Analyzing pharmaceutical study data with graphs using Matplotlib
