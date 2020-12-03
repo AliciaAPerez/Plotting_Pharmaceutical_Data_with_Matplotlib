@@ -1,14 +1,13 @@
 # Plotting_Pharmaceutical_Data_with_Matplotlib
-Analyzing pharmaceutical study data with graphs using Matplotlib
 
 The code in this project is to analyze the provided drug regimen data and mouse tumor data. 
 
 ## Table of Contents 
-*[General info](#General-info)
-*[Technologies](#technologies)
-*[Setup](#setup)
-*[Images](#images)
-*[Overview](#overview)
+*[General info](#General-info)  
+*[Technologies](#technologies)  
+*[Setup](#setup)  
+*[Images](#images)  
+*[Overview](#overview)  
 
 ## General Info
 This code is to analyze the tumor volume in mice in order to evaluate which drug regimen is working best an. 
