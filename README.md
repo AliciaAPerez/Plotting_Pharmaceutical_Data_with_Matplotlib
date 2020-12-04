@@ -31,4 +31,4 @@ To run the code, open it with jupyter Notebook.
 ![image](Images/06_Scatter_Plot_with_Line.png)
 
 ## Overview
-The code gives a lot of information which can be viewed in the code and in the images folder. From the graphs we can see that there is a strong positive correlation for average tumor volume and the mouse weight when using the Capomulin regimen. With a single mouse we see there's a negative trend over time in which the tumor volume decreases while using Capomulin. 
+The code gives a lot of information which can be viewed in the code, and the graphs can also be viewed in the images folder. Overall, several graphs were made reflecting different information. One was made for the total measurements pure regiment, another comparing male vs female mice by count. The other graphs focus on certain regimens with Capomulin being the featured regimen for the last couple of graphs. There is a lot of information that can be gleaned from these. The Capomulin and Ramicane regimens have the lower final tumor volumes compared to the Ceftamin and Infubinol regimens and more data should be procured for those. 
