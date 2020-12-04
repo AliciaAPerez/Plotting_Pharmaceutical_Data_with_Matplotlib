@@ -3,20 +3,20 @@
 The code in this project is to analyze the provided drug regimen data and mouse tumor data. 
 
 ## Table of Contents 
-*[General info](#General-info)  
-*[Technologies](#technologies)  
-*[Setup](#setup)  
-*[Images](#images)  
-*[Overview](#overview)  
+* [General info](#General-info)  
+* [Technologies](#technologies)  
+* [Setup](#setup)  
+* [Images](#images)  
+* [Overview](#overview)  
 
 ## General Info
 This code is to analyze the tumor volume in mice in order to evaluate which drug regimen is working best an. 
 
 ## Technologies
-Project is created with:
-*Pandas 1.0.5
-*Jupyter Notebook 4.6.3
-*Matplotlib 3.3.2
+Project is created with:  
+*Pandas 1.0.5  
+*Jupyter Notebook 4.6.3  
+*Matplotlib 3.3.2  
 
 ## Setup
 To run the code, open it with jupyter Notebook.
